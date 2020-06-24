@@ -11,7 +11,7 @@ public class Test2 {
         System.out.println("老大发的第二次次次次次次你对此" );
         System.out.println("老大发的第二次次次次次次你对此" );
         System.out.println("老大发的第二次次次次次次你对此" );
-        System.out.println("老大发的第二次次次次次次你对此" );
+        System.out.println("老大发的第二次次次次次次你对此1" );
 
     }
 }
